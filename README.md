@@ -1,16 +1,63 @@
-### Hi there 👋
+# EscapeFromShanghai
 
-<!--
-**EscapeFromSH/EscapeFromSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![escape-sh](/img/escape-sh.jpg)
 
-Here are some ideas to get you started:
+_（图片来源：[左右胖](https://www.zcool.com.cn/work/ZMzQyNjU4NDQ=.html)）_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+这个仓库的建立于2022年4月，灵感来源于“俄乌冲突”与魔都疫情，目的在于探讨逃离魔都的技术可行性，包括生活中的各个方面。
+
+_注：这个仓库也许会突然有一天消失，**所以最重要的是要把那颗Star留在心中哦**。_
+
+## 方向选择
+
+以极端情况下的自给自足能力为高优先级，所以乡下为主，崇尚原生态。
+
+## 住房
+
+自建或租占改造。
+
+_TODO: 添加具体计划、成本预算及案例。_
+
+## 工作
+
+远程工作、种地或本地重新副本。
+
+## 医疗养老
+
+生活平衡、强健体魄为主，医疗为辅，毕竟有钱也不一定看得上病。
+
+## 运动娱乐
+
+没有条件就创造条件，如自建球馆，运动器械、爬山远足、种田搬砖等。
+
+_TODO: 添加具体计划、成本预算及案例，添加子女体育教育大纲。_
+
+## 子女教育
+
+快乐成长和家庭教育为主，未来20年黑天鹅事件越来越多，谁知道10年或20年后会发生什么？如：
+ - 谁能想到搞培训也能变成黑社会？
+ - 谁能料到卖菜送快递也能月入数十万（少了）？
+ - 谁能料到有钱也吃不上饭看不上病？
+ - 谁能跟落到乌克兰的炮弹讲道理？
+ 
+在时代的大潮下，个人的努力貌似也没有那么重要，每一代人都有自己的时代宿命，开心健康就好啦~
+如果不能开心，那得有健康，如果不能有健康，那别的都没意义了，还有啥好卷的？
+
+_TODO: 收集整理远程学科教育资源、家庭教育手册等。_
+
+## 抵御极端风险的指数
+
+自然灾害、战争风险、人为风险等。
+
+## 其他
+
+（待添加）
+
+
+## 案例收集：
+
+![img](/img/main-page.jpg)
+
+- [逃离魔都，回老家创业去！](https://zhuanlan.zhihu.com/p/46186638)
+
+_持续添加中，欢迎供稿，亲身经历优先。_
